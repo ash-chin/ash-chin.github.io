@@ -122,10 +122,6 @@ header .intro-text .skills {
     header .intro-text .skills {
         font-size: 1.75em;
     }
-    
-    header .my-img {
-        border-radius: 50%;
-    }
 }
 
 @media(min-width:768px) {

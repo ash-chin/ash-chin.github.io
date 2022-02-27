@@ -109,10 +109,6 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
-img-rounded {
-    border-radius: 50%;
-}
-
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
@@ -125,6 +121,10 @@ img-rounded {
 
     header .intro-text .skills {
         font-size: 1.75em;
+    }
+    
+    header .img-round {
+        border-radius: 50%;
     }
 }
 

@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Personal Page in Progress
 
 You can use the [editor on GitHub](https://github.com/ash-chin/ash-chin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
